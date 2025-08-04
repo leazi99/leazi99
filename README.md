@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **mongodb**
 
-- 📫 How to reach me **uzwalbasnet@gmail.com**
+- 📫 How to reach me **uzwalbasnet375@gmail.com**
 
   <!-- Snake Game Repo View -->
 
